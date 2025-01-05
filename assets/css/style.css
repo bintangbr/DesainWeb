@@ -1,0 +1,24 @@
+/* General styles */
+body {
+    font-family: 'Poppins', 'Roboto', sans-serif;
+    line-height: 1.8;
+    letter-spacing: 0.3px;
+}
+
+.navbar {
+    font-size: 18px;
+}
+
+.hero-section {
+    color: #fff;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+/* About Page Styles */
+h2 {
+    color: #0056b3;
+}
+
+img.rounded-circle {
+    border: 5px solid #0056b3;
+}
